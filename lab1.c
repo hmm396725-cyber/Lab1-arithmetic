@@ -6,7 +6,7 @@ int main(void) {
     printf("Difference: %d\n", x - y);
     printf("Product: %d\n", x * y);
     printf("Quotient: %d\n", x / y);
-    printf("Remainer: %d\n", x % y);
+    printf("Reminder: %d\n", x % y);
     return 0;
     
 }
